@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarekLorenz
+- 👋 Hi, I’m Marek
 - 👀 I’m interested in Machine Learning and Knowledge Graphs
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on chatbot projects
