@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marek
-- 👀 I’m interested in NLP Machine Learning and Knowledge Graphs
+- 👀 I’m interested in NLP, Machine Learning and Knowledge Graphs
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Chatbot Projects
 - 📫 How to reach me marek.lorenz@outlook.de
